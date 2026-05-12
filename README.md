@@ -341,7 +341,7 @@ combinatorial Ramsey problems), please cite as:
 ```
 Faivre, E. (2026). ramsey-5-5-search: heuristic exploration
 of K₅-free graphs on 43 vertices. GitHub repository.
-https://github.com/<your-username>/ramsey-5-5-search
+https://github.com/Quasaria/ramsey-5-5-search
 ```
 
 ## License
